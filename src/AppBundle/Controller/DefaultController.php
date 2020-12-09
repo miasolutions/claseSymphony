@@ -47,5 +47,33 @@ class DefaultController extends Controller
         ));
     }
 
+    /**
+     * @Route("/admin1", name="admin1")
+     */
+    public function admin1Action(Request $request){
+        return new Response("<h1>Esta pagina es para administradores 1</h1>");
+    }
+    /**
+     * @Route("/restringido1", name="restringido1")
+     */
+    public function restringido1Action(Request $request){
+        if ($this->get('security.authorization_checker')
+            ->isGranted('IS_AUTHENTICATED_FULLY')){
+            return new Response("<h1>Esta pagina es para usuarios autenticados 1</h1>");
+        }else{
+            return new Response("ERROR, PERMISO DENEGADO");
+        }
 
+    }
+
+    /**
+     * @Route("/restringido2", name="restringido2")
+     */
+    public function restringido2Action(Request $request){
+
+        $this->denyAccessUnlessGranted("IS_AUTHENTICATED_FULLY");
+
+        return new Response("<h1>Esta pagina es para usuarios autenticados 1</h1>");
+
+    }
 }
