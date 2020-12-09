@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99face31-c4b9-4ebc-9836-410b9fc1948c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/mongodb-odm-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/alcaeus/mongo-php-adapter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/mongodb-odm" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1l4Fm72XaH869THboA2ikMltABt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Resources/views/User" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views/User" />
+      <recent name="$PROJECT_DIR$/src/AppBundle/Repository" />
+      <recent name="$PROJECT_DIR$/src/AppBundle/Controller" />
+      <recent name="$PROJECT_DIR$/src/AppBundle/Document" />
+      <recent name="$PROJECT_DIR$/app/Resources/views/Proyecto" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99face31-c4b9-4ebc-9836-410b9fc1948c" name="Default Changelist" comment="" />
+      <created>1606848613598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606848613598</updated>
+      <workItem from="1606848614765" duration="5196000" />
+      <workItem from="1606935526552" duration="6749000" />
+      <workItem from="1607024127862" duration="68000" />
+      <workItem from="1607366722498" duration="13930000" />
+      <workItem from="1607471009670" duration="486000" />
+      <workItem from="1607538551243" duration="4145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2453" y="358" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607540442767">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2453" y="358" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607540442767" />
+    <state x="2675" y="465" width="399" height="156" key="NewPhpFileDialog" timestamp="1607368160408">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2675" y="465" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607368160408" />
+    <state x="2386" y="12" width="900" height="745" key="SettingsEditor" timestamp="1607539737539">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2386" y="12" width="900" height="756" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607539737539" />
+    <state x="1020" y="175" width="900" height="745" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607378361900" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/72.27.3768.1053@72.27.3768.1053" timestamp="1606937002171" />
+    <state x="2257" y="0" width="1263" height="1156" key="dock-window-1" timestamp="1607458222843">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2257" y="0" width="1263" height="1156" key="dock-window-1/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607458222843" />
+    <state x="2095" y="161" width="672" height="678" key="search.everywhere.popup" timestamp="1607542883569">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2095" y="161" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607542883569" />
+  </component>
+</project>
