@@ -21,18 +21,15 @@
                 <tbody>
                 {% for cliente in clientes %}
                     <tr>
-                        <td>{{ cliente.id }}</td>
+                        <td>{{ cliente._id }}</td>
                         <td>{{ cliente.nombre }}</td>
                         <td>{{ cliente.apPaterno }}</td>
                         <td>{{ cliente.apMaterno }}</td>
-                        <td>
-                            {% for proyecto in cliente.proyectos %}
-                                {{ proyecto.nombre }}<br>
-                            {% endfor %}
+                        <td>{{ cliente.Proyecto.nombre }}
                         </td>
                         <td>
-                            <a class="btn btn-info" href="{{ path('actualizar_clientes',{'id':cliente.id}) }}">Editar</a>
-                            <button class="btn btn-danger btnEliminar" data-id="{{ cliente.id }}" >Eliminar</button>
+                            <a class="btn btn-info" href="{{ path('actualizar_clientes',{'id':cliente._id}) }}">Editar</a>
+                            <button class="btn btn-danger btnEliminar" data-id="{{ cliente._id }}" >Eliminar</button>
                         </td>
                     </tr>
                 {% endfor %}

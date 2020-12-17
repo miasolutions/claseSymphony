@@ -126,4 +126,58 @@ class User implements AdvancedUserInterface {
     {
         return $this->salt;
     }
+
+    /**
+     * Get id
+     *
+     * @return id $id
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set isActive
+     *
+     * @param boolean $isActive
+     * @return $this
+     */
+    public function setIsActive($isActive)
+    {
+        $this->isActive = $isActive;
+        return $this;
+    }
+
+    /**
+     * Get isActive
+     *
+     * @return boolean $isActive
+     */
+    public function getIsActive()
+    {
+        return $this->isActive;
+    }
+
+    /**
+     * Set isLoggedIn
+     *
+     * @param boolean $isLoggedIn
+     * @return $this
+     */
+    public function setIsLoggedIn($isLoggedIn)
+    {
+        $this->isLoggedIn = $isLoggedIn;
+        return $this;
+    }
+
+    /**
+     * Get isLoggedIn
+     *
+     * @return boolean $isLoggedIn
+     */
+    public function getIsLoggedIn()
+    {
+        return $this->isLoggedIn;
+    }
 }

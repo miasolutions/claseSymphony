@@ -59,7 +59,8 @@ class DefaultController extends Controller
     public function restringido1Action(Request $request){
         if ($this->get('security.authorization_checker')
             ->isGranted('IS_AUTHENTICATED_FULLY')){
-            return new Response("<h1>Esta pagina es para usuarios autenticados 1</h1>");
+            $usuario = $this->getUser();
+            return new Response("<h1>Esta pagina es para usuarios autenticados 1</h1>Bienvenido: ".$usuario->getUsername());
         }else{
             return new Response("ERROR, PERMISO DENEGADO");
         }

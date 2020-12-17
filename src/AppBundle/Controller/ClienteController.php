@@ -98,4 +98,30 @@ class ClienteController extends Controller
         $dm->flush();
         return new Response('Cliente Eliminado Correctamente');
     }
+
+    /**
+     * @Route("/cliente/listar2", name="listar_clientes2")
+     */
+    public function listar2Action(Request $request)
+    {
+        $clientes = $this->get('doctrine_mongodb')
+            ->getRepository('AppBundle:Cliente')
+            ->buscarPorGeneroyEdad('M',10);
+
+        return $this->render('Cliente/listar.html.twig',array(
+            "clientes"=>$clientes
+        ));
+    }
+    /**
+     * @Route("/cliente/listar3", name="listar_clientes3")
+     */
+    public function listar3Action(Request $request)
+    {
+        $clientes2 = $this->get('doctrine_mongodb')
+            ->getRepository('AppBundle:Cliente')
+            ->buscarPorGeneroyEdadA('M',10);
+        return $this->render('Cliente/listar3.html.twig',array(
+            "clientes"=>$clientes2
+        ));
+    }
 }

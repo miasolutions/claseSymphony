@@ -36,6 +36,10 @@ class Cliente{
      * @MongoDB\Field(type="string")
      */
     protected $sexo;
+    /**
+     * @MongoDB\Field(type="integer")
+     */
+    protected $edad;
 
     /**
      * @MongoDB\ReferenceMany(targetDocument="Proyecto", mappedBy="cliente")
@@ -216,5 +220,27 @@ class Cliente{
     public function getProyectos()
     {
         return $this->proyectos;
+    }
+
+    /**
+     * Set edad
+     *
+     * @param integer $edad
+     * @return $this
+     */
+    public function setEdad($edad)
+    {
+        $this->edad = $edad;
+        return $this;
+    }
+
+    /**
+     * Get edad
+     *
+     * @return integer $edad
+     */
+    public function getEdad()
+    {
+        return $this->edad;
     }
 }
