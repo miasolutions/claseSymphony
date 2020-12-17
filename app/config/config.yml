@@ -64,7 +64,9 @@ doctrine_mongodb:
     connections:
         default:
             server: "mongodb://localhost:27017"
-            options: {}
+            options:
+                username: blabla
+                password: blabla
     default_database: "demo"
     document_managers:
         default:

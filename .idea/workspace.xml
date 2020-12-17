@@ -20,31 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99face31-c4b9-4ebc-9836-410b9fc1948c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Resources/views/Cliente/listar3.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/clase1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/clase1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/Cliente/actualizar.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/Cliente/actualizar.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/Cliente/crear.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/Cliente/crear.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/Cliente/listar.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/Cliente/listar.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/Proyecto/crear.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/Proyecto/crear.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/Proyecto/listar.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/Proyecto/listar.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/User/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/User/login.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/User/registro.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/User/registro.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/demo/personas.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/demo/personas.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/demo/saludo.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/demo/saludo.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/layout.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/layout.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/ClienteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/ClienteController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Document/Cliente.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Document/Cliente.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Document/Proyecto.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Document/Proyecto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Document/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Document/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Repository/ClienteRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/ClienteRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Repository/ProyectoRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/ProyectoRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Repository/UserRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/UserRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +127,7 @@
       <workItem from="1607538551243" duration="6474000" />
       <workItem from="1608058579878" duration="4365000" />
       <workItem from="1608144673664" duration="4405000" />
+      <workItem from="1608233319505" duration="76000" />
     </task>
     <servers />
   </component>
@@ -166,6 +144,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2453" y="358" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607540442767">
@@ -176,10 +155,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2675" y="465" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607368160408" />
-    <state x="2386" y="12" width="900" height="745" key="SettingsEditor" timestamp="1608144763041">
+    <state x="2386" y="12" width="900" height="745" key="SettingsEditor" timestamp="1608233344659">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2386" y="12" width="900" height="756" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1608144763041" />
+    <state x="2386" y="12" width="900" height="756" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1608233344659" />
     <state x="1020" y="175" width="900" height="745" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1607378361900" />
     <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/72.27.3768.1053@72.27.3768.1053" timestamp="1606937002171" />
     <state x="2257" y="0" width="1263" height="1156" key="dock-window-1" timestamp="1607458222843">
